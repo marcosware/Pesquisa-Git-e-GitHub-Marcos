@@ -11,18 +11,18 @@ Um portfólio é um elemento importantíssimo para muitos trabalhadores, pois é
 O controle de versão é uma prática muito importante na área de desenvolvimento, pois permite controlar as alterações feitas no código ao longo do tempo. E para se ter um bom controle de versão, geralmente, se utilizam os Sistemas de Controles de Versão. Um exemplo desse sistema é o próprio Git, que se torna crucial quando há a necessidade de trabalhar em equipe, implementar novos recursos, reproduzir erros, resgatar de versões estáveis, utilizar repositórios remotos e muitas outras utilidades.
 <br><br>
 O Git é utilizado através de comandos bem parecidos com o do Prompt de Comando do Windows que realizam várias funções, alguns exemplos são:<br> 
-* init: Cria um novo repositório <br>
-* add: Adiciona um arquivo ou diretório ao repositório<br>
-* commit: Comita (efetiva a alteração) um arquivo ou diretório ao repositório<br>
-* rm: Remove um arquivo ou diretório do repositório<br>
-* log: Exibe o histórico de alterações<br>
-* branch: Cria um novo branch (ramificação)<br>
-* checkout: Altera para outro branch (ramificação)<br>
-* push: Envia arquivos do repositório local para o repositório remoto<br>
-* pull: Atualiza o repositório local de acordo com o repositório remoto<br>
-* fetch: Busca as alterações do repositório remoto mas não as atualiza<br>
-* clone: Clona um repositório remoto existente<br>
-* merge: Mescla as alterações de branches (ramificações) diferentes<br>
+ * init: Cria um novo repositório <br>
+ * add: Adiciona um arquivo ou diretório ao repositório<br>
+ * commit: Comita (efetiva a alteração) um arquivo ou diretório ao repositório<br>
+ * rm: Remove um arquivo ou diretório do repositório<br>
+ * log: Exibe o histórico de alterações<br>
+ * branch: Cria um novo branch (ramificação)<br>
+ * checkout: Altera para outro branch (ramificação)<br>
+ * push: Envia arquivos do repositório local para o repositório remoto<br>
+ * pull: Atualiza o repositório local de acordo com o repositório remoto<br>
+ * fetch: Busca as alterações do repositório remoto mas não as atualiza<br>
+ * clone: Clona um repositório remoto existente<br>
+ * merge: Mescla as alterações de branches (ramificações) diferentes<br>
  	<br><br>
   Já o GitHub, trata-se de uma plataforma disponível tanto em web quanto em software, que permite a hospedagem de códigos e arquivos utilizando o sistema Git. Basicamente. é nele que ficará os repositórios remotos mencionados anteriormente. Ele permite que diversos desenvolvedores contribuam para projetos de forma remota.<br>
 	Adicionalmente, como o GitHub exibe todo o conteúdo dos projetos, ele permite que os desenvolvedores criem seu portfólio nele mesmo, mantendo os materiais no qual foi trabalhado à vista para potenciais empregadores.
