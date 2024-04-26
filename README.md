@@ -1,4 +1,4 @@
-# SENAI_Pesquisa_Git_GitHub
+# Atividade EAD - Pesquisa Git e GitHub (Marcos)
 <b>Marcos Vinicius Nunes Reis</b><br>
 Giordano Einstein Dorneles<br>
 Lógica de Programação<br>
