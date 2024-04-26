@@ -1,5 +1,5 @@
 # Atividade EAD - Pesquisa Git e GitHub (Marcos)
-<b>Marcos Vinicius Nunes Reis</b><br>
+<b>Marcos Vinícius Nunes Reis</b><br>
 Giordano Einstein Dorneles<br>
 Lógica de Programação<br>
 26 de abril de 2024<br>
@@ -24,5 +24,5 @@ O controle de versão é uma prática muito importante na área de desenvolvimen
  * clone: Clona um repositório remoto existente<br>
  * merge: Mescla as alterações de branches (ramificações) diferentes<br>
  	<br><br>
-  <p align="justify">Já o GitHub, trata-se de uma plataforma disponível tanto em web quanto em software, que permite a hospedagem de códigos e arquivos utilizando o sistema Git. Basicamente. é nele que ficará os repositórios remotos mencionados anteriormente. Ele permite que diversos desenvolvedores contribuam para projetos de forma remota.<br>
+  <p align="justify">Já o GitHub, trata-se de uma plataforma disponível tanto em web quanto em software, que permite a hospedagem de códigos e arquivos utilizando o sistema Git. Basicamente, é nele que ficará os repositórios remotos mencionados anteriormente. Ele permite que diversos desenvolvedores contribuam para projetos de forma remota.<br>
 	Adicionalmente, como o GitHub exibe todo o conteúdo dos projetos, ele permite que os desenvolvedores criem seu portfólio nele mesmo, mantendo os materiais no qual foi trabalhado à vista para potenciais empregadores.</p>
