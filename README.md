@@ -3,7 +3,7 @@
 Giordano Einstein Dorneles<br>
 Lógica de Programação<br>
 26 de abril de 2024<br>
-<p align="center"><b>Pesquisa - Portfólio</b></p><br><br>
+<p align="center"><b>Pesquisa - Portfólio</b></p>
 <p align="justify">Um portfólio é um elemento importantíssimo para muitos trabalhadores, pois é ele que demonstra suas habilidades e competências através de suas atividades anteriores. E para um desenvolvedor, não é diferente. Um portfólio de desenvolvimento permitirá que você possa evidenciar suas experiências aos empregadores no mercado de  trabalho. Além disso, permite que o próprio profissional desenvolvedor possa analisar o seu próprio trabalho. Sendo assim, ele se torna indispensável na área de tecnologia da informação.</p>
 <br><br>
 <p align="center"><b>Pesquisa - Git e GitHub</b></p>
